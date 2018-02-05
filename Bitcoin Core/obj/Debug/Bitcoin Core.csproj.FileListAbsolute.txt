@@ -1,0 +1,9 @@
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\bin\Debug\Bitcoin Core.exe.config
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\bin\Debug\Bitcoin Core.exe
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\bin\Debug\Bitcoin Core.pdb
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\obj\Debug\Bitcoin Core.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\obj\Debug\Bitcoin_Core.Form1.resources
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\obj\Debug\Bitcoin_Core.Properties.Resources.resources
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\obj\Debug\Bitcoin Core.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\obj\Debug\Bitcoin Core.exe
+C:\Users\Kevin\Documents\visual studio 2017\Projects\Bitcoin Core\Bitcoin Core\obj\Debug\Bitcoin Core.pdb
